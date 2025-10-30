@@ -6,3 +6,4 @@ Pillow
 streamlit-webrtc
 numpy
 av
+cv2
