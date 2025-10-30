@@ -12,3 +12,4 @@ libavutil-dev
 libavfilter-dev
 libswscale-dev
 libswresample-dev
+python3-distutils
